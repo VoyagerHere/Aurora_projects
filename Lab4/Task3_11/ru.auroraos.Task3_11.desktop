@@ -1,0 +1,13 @@
+[Desktop Entry]
+Type=Application
+X-Nemo-Application-Type=silica-qt5
+Icon=ru.auroraos.Task3_11
+Exec=/usr/bin/ru.auroraos.Task3_11
+Name=Grisch4_3
+Name[ru]=Grisch4_3
+
+[X-Sailjail]
+Permissions=
+OrganizationName=ru.auroraos
+ApplicationName=Task3_11
+ExecDBus=/usr/bin/ru.auroraos.Task3_11

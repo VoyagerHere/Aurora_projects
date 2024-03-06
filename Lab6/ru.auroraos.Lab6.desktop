@@ -1,0 +1,13 @@
+[Desktop Entry]
+Type=Application
+X-Nemo-Application-Type=silica-qt5
+Icon=ru.auroraos.Lab6
+Exec=/usr/bin/ru.auroraos.Lab6
+Name=Lab6
+Name[ru]=Лаб6
+
+[X-Application]
+Permissions=
+OrganizationName=ru.auroraos
+ApplicationName=Lab6
+ExecDBus=/usr/bin/ru.auroraos.Lab6
